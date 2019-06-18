@@ -83,6 +83,7 @@
             this.폼보이기ToolStripMenuItem.Name = "폼보이기ToolStripMenuItem";
             this.폼보이기ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.폼보이기ToolStripMenuItem.Text = "폼 보이기";
+            this.폼보이기ToolStripMenuItem.Click += new System.EventHandler(this.폼보이기ToolStripMenuItem_Click);
             // 
             // Form1
             // 
